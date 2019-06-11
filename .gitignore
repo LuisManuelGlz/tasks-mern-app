@@ -1,0 +1,4 @@
+node_modules
+package-lock.json
+src/public/bootstrap-4.3.1-dist
+src/public/fontawesome-free-5.8.2-web

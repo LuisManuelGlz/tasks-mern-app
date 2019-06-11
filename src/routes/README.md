@@ -1,0 +1,1 @@
+Aplicación hecha con **MongoDB**, **Express**, **React** y **Nodejs**
